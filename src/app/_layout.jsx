@@ -116,6 +116,9 @@ export default function App() {
             <Text style={styles.title}>
                 Document App
             </Text>
+            <Text style={styles.title}>
+                Document App
+            </Text>
 
 
             <Button
